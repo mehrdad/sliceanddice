@@ -1,0 +1,17 @@
+{"slicedefinitions":[{
+   "name":"Roadmap View",
+   "col":"Year",
+   "row":"Project",
+   "data":"Capability"
+},{
+   "name":"By Type",
+   "col":"Type",
+   "row":"Year",
+   "data":"Capability"
+},{
+   "name":"By Capability",
+   "col":"Capability",
+   "row":"Year",
+   "data":"Project"
+}
+]}
