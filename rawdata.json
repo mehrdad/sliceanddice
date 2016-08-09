@@ -1,0 +1,31 @@
+{"rawdata":[{
+  "Capability":"Manage Customer Calls",
+  "Project":"Project A",
+  "Type":"Customer Service",
+  "Year":"2011"
+},{
+  "Capability":"R&D Lab",
+  "Project":"Project B",
+  "Type":"Enabler",
+  "Year":"2011"
+},{
+  "Capability":"Telesales",
+  "Project":"Project A",
+  "Type":"Revenue Generation",
+  "Year":"2012"
+},{
+  "Capability":"CRM System",
+  "Project":"Project A",
+  "Type":"Enabler",
+  "Year":"2012"
+},{
+  "Capability":"Home Delivery",
+  "Project":"Project C",
+  "Type":"Enabler",
+  "Year":"2013"
+},{
+  "Capability":"High Street Shops",
+  "Project":"Project C",
+  "Type":"Enabler",
+  "Year":"2012"
+}]}
